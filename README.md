@@ -12,7 +12,7 @@ An AI-powered resume builder with real-time preview and smart templates. Create 
 
 # Clone the repository
 
-git clone [https://github.com/saksham003/resume-zen](https://github.com/saksham003/resume-zen)
+git clone https://github.com/saksham003/resume-zen
 
 # Navigate to project directory
 
