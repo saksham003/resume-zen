@@ -9,21 +9,16 @@ An AI-powered resume builder with real-time preview and smart templates. Create 
 
 ```
 
-
 # Clone the repository
-
 git clone https://github.com/saksham003/resume-zen
 
 # Navigate to project directory
-
 cd resume-zen
 
 # Install dependencies
-
 npm install
 
 # Start development server
-
 npm run dev
 
 ```
